@@ -1,0 +1,4 @@
+{
+   "framework": "jasmine",
+   "src_files": ["mergesort.js", "mergesort.spec.js"]
+}
